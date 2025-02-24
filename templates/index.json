@@ -192,6 +192,9 @@
         "image_KLEUU4",
         "image_8W6Vaw"
       ],
+      "custom_css": [
+        ".scrolling-image-content-template--16120415682654__ss_scrolling_images_8ExQQM {display: none !important;}"
+      ],
       "settings": {
         "heading": "<h2>Heading</h2>",
         "heading_custom": false,
@@ -208,7 +211,7 @@
         "image_width_desktop": 300,
         "image_width_mobile": 120,
         "image_height_desktop": 180,
-        "image_height_mobile": 50,
+        "image_height_mobile": 100,
         "image_radius": 10,
         "use_content": true,
         "content_position": "center",
