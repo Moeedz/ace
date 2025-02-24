@@ -66,7 +66,7 @@
     "product-grid": "natural",
     "hover-effect": true,
     "show_badges": true,
-    "product_card_text_alignment": "center",
+    "product_card_text_alignment": "left",
     "sm_instagram_link": "",
     "enable_breadcrumbs": false,
     "popup--enable": true,
