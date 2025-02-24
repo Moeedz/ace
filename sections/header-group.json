@@ -60,6 +60,9 @@
     },
     "header": {
       "type": "header",
+      "custom_css": [
+        ".site-header {border: unset !important;}"
+      ],
       "settings": {
         "sticky_header": true,
         "enable_search": true,
