@@ -27,10 +27,18 @@
           "settings": {
             "social_title": "Follow Us"
           }
+        },
+        "menu_DCWwtz": {
+          "type": "menu",
+          "settings": {
+            "menu_title": "Quick links",
+            "footer_linklist": "footer"
+          }
         }
       },
       "block_order": [
-        "social"
+        "social",
+        "menu_DCWwtz"
       ],
       "settings": {
         "alignment": "left"
