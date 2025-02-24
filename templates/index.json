@@ -190,6 +190,12 @@
           "settings": {
             "url": ""
           }
+        },
+        "image_e9Q8JU": {
+          "type": "image",
+          "settings": {
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -197,7 +203,8 @@
         "image_HtaMj8",
         "image_gmRbYP",
         "image_KLEUU4",
-        "image_8W6Vaw"
+        "image_8W6Vaw",
+        "image_e9Q8JU"
       ],
       "custom_css": [
         ".scrolling-image-content-template--16120415682654__ss_scrolling_images_8ExQQM {display: none !important;}"
@@ -253,6 +260,51 @@
         "border_thickness": 0,
         "lazy": true
       }
+    },
+    "section_contact_form_aE7BhB": {
+      "type": "section--contact-form",
+      "blocks": {
+        "name_input_ttK7CU": {
+          "type": "name_input",
+          "settings": {
+            "required": true,
+            "input_width": "partial"
+          }
+        },
+        "email_input_VYcEwd": {
+          "type": "email_input",
+          "settings": {
+            "required": true,
+            "input_width": "partial"
+          }
+        },
+        "tel_input_MPYRBW": {
+          "type": "tel_input",
+          "settings": {
+            "required": true,
+            "input_width": "full"
+          }
+        },
+        "message_input_JFD7p9": {
+          "type": "message_input",
+          "settings": {
+            "required": true,
+            "input_width": "full"
+          }
+        }
+      },
+      "block_order": [
+        "name_input_ttK7CU",
+        "email_input_VYcEwd",
+        "tel_input_MPYRBW",
+        "message_input_JFD7p9"
+      ],
+      "settings": {
+        "section_color_scheme": "light",
+        "form_width": "narrow",
+        "form_title": "Contact us",
+        "form_description": "<p>Have a question, or want a product recommendation? Get in touch.</p>"
+      }
     }
   },
   "order": [
@@ -262,6 +314,7 @@
     "collection_featured_collection_rfUBPJ",
     "text_rich_text_AFMD6m",
     "image_logo_list_xt93je",
-    "ss_scrolling_images_8ExQQM"
+    "ss_scrolling_images_8ExQQM",
+    "section_contact_form_aE7BhB"
   ]
 }
