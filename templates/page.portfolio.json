@@ -15,9 +15,41 @@
         "page_title_enabled": true,
         "page_width": "full-width"
       }
+    },
+    "image_image_with_text_F8EqKJ": {
+      "type": "image--image-with-text",
+      "settings": {
+        "colors": "dark",
+        "image": "shopify://shop_images/Destined-removebg-preview.png",
+        "text_overlapping_image": false,
+        "section-width": "content",
+        "layout": "left",
+        "text_alignment": "left",
+        "title": "DESTINED",
+        "text": "<p>Destined is a streetwear brand that blends bold, modern designs with a luxury aesthetic. Known for its standout hoodies, sweatsuits, and rhinestone-embellished pieces, the brand emphasizes statement fashion with high-quality materials.</p>",
+        "button_label": "VISIT WEBSITE",
+        "button_link": "https://shopd4g.com/"
+      }
+    },
+    "image_image_with_text_9U9zpY": {
+      "type": "image--image-with-text",
+      "settings": {
+        "colors": "dark",
+        "image": "shopify://shop_images/Destined-removebg-preview.png",
+        "text_overlapping_image": false,
+        "section-width": "content",
+        "layout": "right",
+        "text_alignment": "left",
+        "title": "DESTINED",
+        "text": "<p>Destined is a streetwear brand that blends bold, modern designs with a luxury aesthetic. Known for its standout hoodies, sweatsuits, and rhinestone-embellished pieces, the brand emphasizes statement fashion with high-quality materials.</p>",
+        "button_label": "VISIT WEBSITE",
+        "button_link": "https://shopd4g.com/"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "image_image_with_text_F8EqKJ",
+    "image_image_with_text_9U9zpY"
   ]
 }
