@@ -35,15 +35,15 @@
       "type": "image--image-with-text",
       "settings": {
         "colors": "dark",
-        "image": "shopify://shop_images/Destined-removebg-preview.png",
+        "image": "shopify://shop_images/Vampify-removebg-preview.png",
         "text_overlapping_image": false,
         "section-width": "content",
         "layout": "right",
         "text_alignment": "left",
-        "title": "DESTINED",
-        "text": "<p>Destined is a streetwear brand that blends bold, modern designs with a luxury aesthetic. Known for its standout hoodies, sweatsuits, and rhinestone-embellished pieces, the brand emphasizes statement fashion with high-quality materials.</p>",
+        "title": "VAMPIFY MAFIA",
+        "text": "<p>Vampify Mafia is a streetwear brand with a dark, edgy aesthetic, inspired by gothic and mafia culture. Featuring bold graphics, monochrome tones, and statement designs, the brand merges urban fashion with a mysterious, high-fashion appeal.</p>",
         "button_label": "VISIT WEBSITE",
-        "button_link": "https://shopd4g.com/"
+        "button_link": "https://vampifymafia.com/"
       }
     }
   },
