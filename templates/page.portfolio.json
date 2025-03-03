@@ -18,6 +18,9 @@
     },
     "image_image_with_text_F8EqKJ": {
       "type": "image--image-with-text",
+      "custom_css": [
+        ".responsive-image-wrapper {justify-content: left;}"
+      ],
       "settings": {
         "colors": "dark",
         "image": "shopify://shop_images/Destined-removebg-preview.png",
@@ -33,6 +36,9 @@
     },
     "image_image_with_text_9U9zpY": {
       "type": "image--image-with-text",
+      "custom_css": [
+        ".responsive-image-wrapper {justify-content: right;}"
+      ],
       "settings": {
         "colors": "dark",
         "image": "shopify://shop_images/Vampify-removebg-preview.png",
