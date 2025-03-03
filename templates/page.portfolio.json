@@ -19,7 +19,8 @@
     "image_image_with_text_F8EqKJ": {
       "type": "image--image-with-text",
       "custom_css": [
-        ".responsive-image-wrapper {justify-content: left;}"
+        ".responsive-image-wrapper {justify-content: left;}",
+        ".responsive-image-wrapper img {display: block; width: 100% !important; max-width: 100% !important; object-fit: contain !important;}"
       ],
       "settings": {
         "colors": "dark",
@@ -37,7 +38,8 @@
     "image_image_with_text_9U9zpY": {
       "type": "image--image-with-text",
       "custom_css": [
-        ".responsive-image-wrapper {justify-content: right;}"
+        ".responsive-image-wrapper {justify-content: right;}",
+        ".responsive-image-wrapper img {display: block; width: 100% !important; max-width: 100% !important; object-fit: contain !important;}"
       ],
       "settings": {
         "colors": "dark",
