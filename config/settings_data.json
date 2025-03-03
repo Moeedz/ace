@@ -69,7 +69,7 @@
     "product_card_text_alignment": "left",
     "sm_instagram_link": "https://www.instagram.com/sitebyace?igsh=cGF2bzh6eXZ3bDIx",
     "enable_breadcrumbs": false,
-    "popup--enable": true,
+    "popup--enable": false,
     "pop-up-text-header-text": "Subscribe to our newsletter",
     "pop-up-text-description-text": "<p>Join our creative community</p>",
     "desktop-popup-style": "slide-up",
