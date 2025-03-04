@@ -83,7 +83,7 @@
             "controls": false,
             "autoplay": true,
             "loop": true,
-            "info": "@section.store",
+            "info": "",
             "url": "",
             "info_color": "#C2D6FF"
           }
@@ -95,7 +95,7 @@
             "controls": false,
             "autoplay": true,
             "loop": true,
-            "info": "@socialhandle",
+            "info": "",
             "url": "",
             "info_color": "#ffb71b"
           }
@@ -107,7 +107,7 @@
             "controls": false,
             "autoplay": true,
             "loop": true,
-            "info": "@socialhandle",
+            "info": "",
             "url": "",
             "info_color": "#ffb3ba"
           }
@@ -119,7 +119,7 @@
             "controls": false,
             "autoplay": true,
             "loop": true,
-            "info": "@socialhandle",
+            "info": "",
             "url": "",
             "info_color": "#ffffff"
           }
@@ -131,7 +131,7 @@
             "controls": false,
             "autoplay": true,
             "loop": true,
-            "info": "@socialhandle",
+            "info": "",
             "url": "",
             "info_color": "#ffffff"
           }
@@ -143,7 +143,7 @@
             "controls": false,
             "autoplay": true,
             "loop": true,
-            "info": "@socialhandle",
+            "info": "",
             "url": "",
             "info_color": "#c2d6ff"
           }
@@ -155,7 +155,7 @@
             "controls": false,
             "autoplay": true,
             "loop": true,
-            "info": "@socialhandle",
+            "info": "",
             "url": "",
             "info_color": "#ffb3ba"
           }
@@ -171,7 +171,7 @@
         "video_nfaPJE"
       ],
       "settings": {
-        "heading": "<h2>Recommended by the best of the best</h2>",
+        "heading": "<h2>ANIMATIONS PORTFOLIO</h2>",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
         "heading_size": 44,
@@ -179,7 +179,7 @@
         "heading_height": 130,
         "heading_align": "center",
         "heading_align_mobile": "center",
-        "sub_heading": "<p>Approved by a team of health, wellness, and sports nutrition professionals.</p>",
+        "sub_heading": "",
         "sub_heading_custom": false,
         "sub_heading_font": "josefin_sans_n4",
         "sub_heading_size": 20,
@@ -188,7 +188,7 @@
         "sub_heading_align": "center",
         "sub_heading_align_mobile": "center",
         "sub_heading_mt": 20,
-        "slider_view": 6,
+        "slider_view": 4,
         "slider_view_mobile": 2,
         "slider_gap": 16,
         "slider_gap_mobile": 16,
@@ -243,29 +243,29 @@
         "pagination_height": 100,
         "pagination_show_desktop": true,
         "pagination_show_mobile": true,
-        "card_bg_color": "#2F222B",
-        "card_border_color": "#000000",
-        "video_border_color": "#000000",
-        "content_bg_color": "#2F222B",
-        "content_border_color": "#000000",
+        "card_bg_color": "rgba(0,0,0,0)",
+        "card_border_color": "#ffffff",
+        "video_border_color": "#ffffff",
+        "content_bg_color": "rgba(0,0,0,0)",
+        "content_border_color": "#ffffff",
         "action_bg_color": "#ECECEC",
-        "action_bg_hover_color": "#FDF0EA",
+        "action_bg_hover_color": "#ececec",
         "action_border_color": "#000000",
         "action_border_hover_color": "#000000",
-        "action_icon_color": "#121212",
+        "action_icon_color": "#000000",
         "action_icon_hover_color": "#121212",
         "arrow_color": "#000000",
         "arrow_hover_color": "#000000",
-        "arrow_bg_color": "#C2D6FF",
-        "arrow_bg_hover_color": "#C2D6FF",
+        "arrow_bg_color": "#ffffff",
+        "arrow_bg_hover_color": "#ffffff",
         "arrow_border_color": "#000000",
         "arrow_border_hover_color": "#000000",
         "pagination_color": "#000000",
-        "heading_color": "#000000",
-        "sub_heading_color": "#000000",
-        "background_color": "#ECECEC",
+        "heading_color": "#ffffff",
+        "sub_heading_color": "#ffffff",
+        "background_color": "#2d2d2d",
         "background_gradient": "",
-        "border_color": "#000000",
+        "border_color": "#ffffff",
         "margin_top": 0,
         "margin_bottom": 0,
         "padding_top": 60,
