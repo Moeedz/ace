@@ -12,6 +12,12 @@
     "product-form": {
       "type": "template--product",
       "blocks": {
+        "vendor_xqgdq3": {
+          "type": "vendor",
+          "settings": {
+            "margin_bottom": 5
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -130,6 +136,7 @@
         }
       },
       "block_order": [
+        "vendor_xqgdq3",
         "title",
         "price",
         "f0f0e917-92a5-4957-a68e-2d0bb38d7819",
