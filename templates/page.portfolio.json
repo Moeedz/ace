@@ -62,15 +62,15 @@
       ],
       "settings": {
         "colors": "dark",
-        "image": "shopify://shop_images/Vampify-removebg-preview.png",
+        "image": "shopify://shop_images/Perishednotion-removebg-preview.png",
         "text_overlapping_image": false,
         "section-width": "content",
         "layout": "left",
         "text_alignment": "left",
-        "title": "VAMPIFY MAFIA",
-        "text": "<p>Vampify Mafia is a streetwear brand with a dark, edgy aesthetic, inspired by gothic and mafia culture. Featuring bold graphics, monochrome tones, and statement designs, the brand merges urban fashion with a mysterious, high-fashion appeal.</p>",
+        "title": "PERISHED NOTION",
+        "text": "<p>Perished Notion is a streetwear brand blending gothic aesthetics with raw, artistic expression. Known for its dark, grunge-inspired designs, bold graphics, and distressed finishes, the brand caters to those who embrace individuality and rebellion.</p>",
         "button_label": "VISIT WEBSITE",
-        "button_link": "https://vampifymafia.com/"
+        "button_link": "https://perishednotion.net/"
       }
     }
   },
