@@ -131,6 +131,7 @@
         "video_3KVzHr": {
           "type": "video",
           "settings": {
+            "video": "shopify://files/videos/vid 5.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "autoplay": true,
@@ -143,6 +144,7 @@
         "video_TNrmpw": {
           "type": "video",
           "settings": {
+            "video": "shopify://files/videos/final_render_coffee.mov",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "autoplay": true,
@@ -155,6 +157,7 @@
         "video_nfaPJE": {
           "type": "video",
           "settings": {
+            "video": "shopify://files/videos/0001-0250.mov",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "autoplay": true,
