@@ -54,7 +54,7 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_smart_checkout": true,
+            "show_smart_checkout": false,
             "enable_gift_card_recipient_form": true,
             "margin_bottom": 20
           }
@@ -71,6 +71,7 @@
         },
         "b0c19132-8e54-4664-b8ce-0a8c7f1f7737": {
           "type": "collapsible-tab",
+          "disabled": true,
           "settings": {
             "icon": "info",
             "heading": "details",
@@ -96,6 +97,7 @@
         },
         "b3864090-4f25-4db2-bddb-c549e9472be6": {
           "type": "collapsible-tab",
+          "disabled": true,
           "settings": {
             "icon": "service",
             "heading": "assistance",
