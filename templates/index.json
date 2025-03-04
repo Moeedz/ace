@@ -178,24 +178,28 @@
         "image_gmRbYP": {
           "type": "image",
           "settings": {
-            "url": ""
+            "image": "shopify://shop_images/WhatsApp_Image_2025-03-04_at_23.42.07_4d5edbcf.jpg",
+            "url": "https://perishednotion.net/"
           }
         },
         "image_KLEUU4": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-03-04_at_23.46.06_1402294e.jpg",
             "url": ""
           }
         },
         "image_8W6Vaw": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-03-04_at_23.46.07_c0378ba5.jpg",
             "url": ""
           }
         },
         "image_e9Q8JU": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-03-04_at_23.46.07_0ac5255a.jpg",
             "url": ""
           }
         }
