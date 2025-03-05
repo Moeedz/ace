@@ -287,6 +287,14 @@
         "tel_input_MPYRBW": {
           "type": "tel_input",
           "settings": {
+            "required": false,
+            "input_width": "full"
+          }
+        },
+        "custom_input_xNMRQi": {
+          "type": "custom_input",
+          "settings": {
+            "placeholder": "Project Budget",
             "required": true,
             "input_width": "full"
           }
@@ -303,6 +311,7 @@
         "name_input_ttK7CU",
         "email_input_VYcEwd",
         "tel_input_MPYRBW",
+        "custom_input_xNMRQi",
         "message_input_JFD7p9"
       ],
       "settings": {
