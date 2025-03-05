@@ -36,8 +36,8 @@
         "fbb2a872-0770-4f56-913c-b7853e33a9c0": {
           "type": "custom_input",
           "settings": {
-            "placeholder": "Order number",
-            "required": false,
+            "placeholder": "Project Budget",
+            "required": true,
             "input_width": "full"
           }
         },
