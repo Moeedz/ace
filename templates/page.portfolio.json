@@ -218,6 +218,19 @@
             "url": "",
             "info_color": "#c2d6ff"
           }
+        },
+        "video_Xa4zAW": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/WhatsApp Video 2025-03-06 at 12.13.34_e3913dd2.mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "autoplay": true,
+            "loop": true,
+            "info": "",
+            "url": "",
+            "info_color": "#C2D6FF"
+          }
         }
       },
       "block_order": [
@@ -231,7 +244,8 @@
         "video_VqiRLF",
         "video_NhnChL",
         "video_fVEJK4",
-        "video_LCT7mi"
+        "video_LCT7mi",
+        "video_Xa4zAW"
       ],
       "settings": {
         "heading": "<h2>3D ANIMATIONS</h2>",
