@@ -251,6 +251,13 @@
             "image": "shopify://shop_images/WhatsApp_Image_2025-03-06_at_11.29.12_dc6caf6d.jpg",
             "url": ""
           }
+        },
+        "image_ihfyVB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-03-07_at_03.23.44_7f4629c1.jpg",
+            "url": "http://Shiningstarzusa.com"
+          }
         }
       },
       "block_order": [
@@ -266,7 +273,8 @@
         "image_wxRiQV",
         "image_9VMEBt",
         "image_FbA3FR",
-        "image_jRmdfh"
+        "image_jRmdfh",
+        "image_ihfyVB"
       ],
       "custom_css": [
         ".scrolling-image-content-template--16120415682654__ss_scrolling_images_8ExQQM {display: none !important;}",
