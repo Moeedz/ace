@@ -166,6 +166,58 @@
             "url": "",
             "info_color": "#ffb3ba"
           }
+        },
+        "video_VqiRLF": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/vid 6.mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "autoplay": true,
+            "loop": true,
+            "info": "",
+            "url": "",
+            "info_color": "#ffb3ba"
+          }
+        },
+        "video_NhnChL": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/vid 7.mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "autoplay": true,
+            "loop": true,
+            "info": "",
+            "url": "",
+            "info_color": "#ffb3ba"
+          }
+        },
+        "video_fVEJK4": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/vid 8.mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "autoplay": true,
+            "loop": true,
+            "info": "",
+            "url": "",
+            "info_color": "#ffb3ba"
+          }
+        },
+        "video_LCT7mi": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/vid 9.mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "autoplay": true,
+            "loop": true,
+            "info": "",
+            "url": "",
+            "info_color": "#C2D6FF"
+          }
         }
       },
       "block_order": [
@@ -175,7 +227,11 @@
         "video_ExX8Xe",
         "video_3KVzHr",
         "video_TNrmpw",
-        "video_nfaPJE"
+        "video_nfaPJE",
+        "video_VqiRLF",
+        "video_NhnChL",
+        "video_fVEJK4",
+        "video_LCT7mi"
       ],
       "settings": {
         "heading": "<h2>3D ANIMATIONS</h2>",
