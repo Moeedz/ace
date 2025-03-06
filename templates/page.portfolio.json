@@ -170,7 +170,7 @@
         "video_VqiRLF": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/vid 6.mp4",
+            "video": "shopify://files/videos/0001-0282.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "autoplay": true,
@@ -216,7 +216,7 @@
             "loop": true,
             "info": "",
             "url": "",
-            "info_color": "#C2D6FF"
+            "info_color": "#c2d6ff"
           }
         }
       },
