@@ -269,7 +269,8 @@
         "image_jRmdfh"
       ],
       "custom_css": [
-        ".scrolling-image-content-template--16120415682654__ss_scrolling_images_8ExQQM {display: none !important;}"
+        ".scrolling-image-content-template--16120415682654__ss_scrolling_images_8ExQQM {display: none !important;}",
+        ".scrolling-image-slide-template--16120415682654__ss_scrolling_images_8ExQQM img {object-fit: contain; background: white;}"
       ],
       "settings": {
         "heading": "<h2><strong>PORTFOLIO</strong></h2>",
