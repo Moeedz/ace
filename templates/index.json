@@ -175,6 +175,13 @@
             "url": "https://vampifymafia.com/"
           }
         },
+        "image_fX6jjw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-03-10_at_22.10.17_d2b338a1.jpg",
+            "url": ""
+          }
+        },
         "image_gmRbYP": {
           "type": "image",
           "settings": {
@@ -263,6 +270,7 @@
       "block_order": [
         "image_Y9TeDt",
         "image_HtaMj8",
+        "image_fX6jjw",
         "image_gmRbYP",
         "image_KLEUU4",
         "image_8W6Vaw",

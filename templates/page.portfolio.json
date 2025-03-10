@@ -229,6 +229,19 @@
             "loop": true,
             "info": "",
             "url": "",
+            "info_color": "#c2d6ff"
+          }
+        },
+        "video_dPRNLh": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/WhatsApp Video 2025-03-10 at 22.09.27_399d35e9.mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "autoplay": true,
+            "loop": true,
+            "info": "",
+            "url": "",
             "info_color": "#C2D6FF"
           }
         }
@@ -245,7 +258,8 @@
         "video_NhnChL",
         "video_fVEJK4",
         "video_LCT7mi",
-        "video_Xa4zAW"
+        "video_Xa4zAW",
+        "video_dPRNLh"
       ],
       "settings": {
         "heading": "<h2>3D ANIMATIONS</h2>",
