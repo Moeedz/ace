@@ -144,13 +144,14 @@
         "video_pEHAM4": {
           "type": "video",
           "settings": {
+            "video": "shopify://files/videos/WhatsApp Video 2025-03-14 at 11.55.04_baf0aea2.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "autoplay": true,
             "loop": true,
-            "info": "@section.store",
+            "info": "",
             "url": "",
-            "info_color": "#C2D6FF"
+            "info_color": "#c2d6ff"
           }
         },
         "video_nfaPJE": {
@@ -243,6 +244,45 @@
             "url": "",
             "info_color": "#c2d6ff"
           }
+        },
+        "video_99GaBj": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/WhatsApp Video 2025-03-14 at 11.55.07_8e46e3ca.mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "autoplay": true,
+            "loop": true,
+            "info": "",
+            "url": "",
+            "info_color": "#C2D6FF"
+          }
+        },
+        "video_GF8jD8": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/WhatsApp Video 2025-03-14 at 11.55.09_02fcd626.mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "autoplay": true,
+            "loop": true,
+            "info": "",
+            "url": "",
+            "info_color": "#C2D6FF"
+          }
+        },
+        "video_YmerEV": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/WhatsApp Video 2025-03-14 at 11.56.07_55a7d35c.mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "autoplay": true,
+            "loop": true,
+            "info": "",
+            "url": "",
+            "info_color": "#C2D6FF"
+          }
         }
       },
       "block_order": [
@@ -258,7 +298,10 @@
         "video_fVEJK4",
         "video_LCT7mi",
         "video_Xa4zAW",
-        "video_dPRNLh"
+        "video_dPRNLh",
+        "video_99GaBj",
+        "video_GF8jD8",
+        "video_YmerEV"
       ],
       "settings": {
         "heading": "<h2>3D ANIMATIONS</h2>",
