@@ -141,17 +141,16 @@
             "info_color": "#ffffff"
           }
         },
-        "video_TNrmpw": {
+        "video_pEHAM4": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/final_render_coffee.mov",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "autoplay": true,
             "loop": true,
-            "info": "",
+            "info": "@section.store",
             "url": "",
-            "info_color": "#c2d6ff"
+            "info_color": "#C2D6FF"
           }
         },
         "video_nfaPJE": {
@@ -242,7 +241,7 @@
             "loop": true,
             "info": "",
             "url": "",
-            "info_color": "#C2D6FF"
+            "info_color": "#c2d6ff"
           }
         }
       },
@@ -252,7 +251,7 @@
         "video_QAyj7D",
         "video_ExX8Xe",
         "video_3KVzHr",
-        "video_TNrmpw",
+        "video_pEHAM4",
         "video_nfaPJE",
         "video_VqiRLF",
         "video_NhnChL",
