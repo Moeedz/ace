@@ -255,7 +255,7 @@
             "loop": true,
             "info": "",
             "url": "",
-            "info_color": "#C2D6FF"
+            "info_color": "#c2d6ff"
           }
         },
         "video_GF8jD8": {
@@ -268,13 +268,26 @@
             "loop": true,
             "info": "",
             "url": "",
-            "info_color": "#C2D6FF"
+            "info_color": "#c2d6ff"
           }
         },
         "video_YmerEV": {
           "type": "video",
           "settings": {
             "video": "shopify://files/videos/WhatsApp Video 2025-03-14 at 11.56.07_55a7d35c.mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "autoplay": true,
+            "loop": true,
+            "info": "",
+            "url": "",
+            "info_color": "#c2d6ff"
+          }
+        },
+        "video_trdd8X": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/WhatsApp Video 2025-03-23 at 02.49.59_f22ce1a9.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "autoplay": true,
@@ -301,7 +314,8 @@
         "video_dPRNLh",
         "video_99GaBj",
         "video_GF8jD8",
-        "video_YmerEV"
+        "video_YmerEV",
+        "video_trdd8X"
       ],
       "settings": {
         "heading": "<h2>3D ANIMATIONS</h2>",
