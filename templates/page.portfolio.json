@@ -294,6 +294,32 @@
             "loop": true,
             "info": "",
             "url": "",
+            "info_color": "#c2d6ff"
+          }
+        },
+        "video_zyxCz4": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/WhatsApp Video 2025-03-25 at 23.58.35_3e202c0d.mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "autoplay": true,
+            "loop": true,
+            "info": "",
+            "url": "",
+            "info_color": "#C2D6FF"
+          }
+        },
+        "video_aXmxTc": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/WhatsApp Video 2025-03-25 at 23.58.38_d12a6b1a.mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "autoplay": true,
+            "loop": true,
+            "info": "",
+            "url": "",
             "info_color": "#C2D6FF"
           }
         }
@@ -315,7 +341,9 @@
         "video_99GaBj",
         "video_GF8jD8",
         "video_YmerEV",
-        "video_trdd8X"
+        "video_trdd8X",
+        "video_zyxCz4",
+        "video_aXmxTc"
       ],
       "settings": {
         "heading": "<h2>3D ANIMATIONS</h2>",
